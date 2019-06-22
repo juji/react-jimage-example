@@ -1,5 +1,6 @@
 {
   "name": "react-jimage-example",
+  "homepage" : "https://juji.github.io/react-jimage-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
